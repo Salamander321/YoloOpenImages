@@ -1,0 +1,6 @@
+*.weights
+*.cfg
+*.data
+*.names
+*.txt
+*.so
